@@ -1,1 +1,82 @@
-{"project_info":{"project_number":"429303454133","project_id":"kuhhlal","storage_bucket":"kuhhlal.appspot.com"},"client":[{"client_info":{"mobilesdk_app_id":"1:429303454133:android:7e4564b7d7cb9c7ca961fc","android_client_info":{"package_name":"com.wrteam.egrocer"}},"oauth_client":[{"client_id":"429303454133-jtjekuq9bs89ncv891vbptao96241v02.apps.googleusercontent.com","client_type":3}],"api_key":[{"current_key":"AIzaSyDwCT0VkSBpKrvWZt5_ZUAnCZisQueKmNw"}],"services":{"appinvite_service":{"other_platform_oauth_client":[{"client_id":"429303454133-jtjekuq9bs89ncv891vbptao96241v02.apps.googleusercontent.com","client_type":3},{"client_id":"429303454133-qk32d5lbvek0icaof55469iitbgdoj0g.apps.googleusercontent.com","client_type":2,"ios_info":{"bundle_id":"com.wrteam.egrocer"}}]}}}],"configuration_version":"1"}
+{
+    "project_info": {
+        "project_number": "429303454133",
+        "project_id": "kuhhlal",
+        "storage_bucket": "kuhhlal.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:429303454133:android:7e4564b7d7cb9c7ca961fc",
+                "android_client_info": {
+                    "package_name": "com.wrteam.egrocer"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "429303454133-jtjekuq9bs89ncv891vbptao96241v02.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDwCT0VkSBpKrvWZt5_ZUAnCZisQueKmNw"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "429303454133-jtjekuq9bs89ncv891vbptao96241v02.apps.googleusercontent.com",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "429303454133-81kifc14cq4ege940c8ar5hqkk50u167.apps.googleusercontent.com",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "y"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:429303454133:android:4d9b69a80308d099a961fc",
+                "android_client_info": {
+                    "package_name": "com.wrteam.egrocer.seller"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "429303454133-jtjekuq9bs89ncv891vbptao96241v02.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDwCT0VkSBpKrvWZt5_ZUAnCZisQueKmNw"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "429303454133-jtjekuq9bs89ncv891vbptao96241v02.apps.googleusercontent.com",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "429303454133-81kifc14cq4ege940c8ar5hqkk50u167.apps.googleusercontent.com",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "y"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
